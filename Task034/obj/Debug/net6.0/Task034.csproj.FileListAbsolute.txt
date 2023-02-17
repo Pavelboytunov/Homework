@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\GB\С#\Homework\Task034\bin\Debug\net6.0\Task034.exe
+C:\Users\User\Desktop\GB\С#\Homework\Task034\bin\Debug\net6.0\Task034.deps.json
+C:\Users\User\Desktop\GB\С#\Homework\Task034\bin\Debug\net6.0\Task034.runtimeconfig.json
+C:\Users\User\Desktop\GB\С#\Homework\Task034\bin\Debug\net6.0\Task034.dll
+C:\Users\User\Desktop\GB\С#\Homework\Task034\bin\Debug\net6.0\ref\Task034.dll
+C:\Users\User\Desktop\GB\С#\Homework\Task034\bin\Debug\net6.0\Task034.pdb
+C:\Users\User\Desktop\GB\С#\Homework\Task034\obj\Debug\net6.0\Task034.GlobalUsings.g.cs
+C:\Users\User\Desktop\GB\С#\Homework\Task034\obj\Debug\net6.0\Task034.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GB\С#\Homework\Task034\obj\Debug\net6.0\Task034.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GB\С#\Homework\Task034\obj\Debug\net6.0\Task034.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GB\С#\Homework\Task034\obj\Debug\net6.0\Task034.AssemblyInfo.cs
+C:\Users\User\Desktop\GB\С#\Homework\Task034\obj\Debug\net6.0\Task034.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GB\С#\Homework\Task034\obj\Debug\net6.0\Task034.dll
+C:\Users\User\Desktop\GB\С#\Homework\Task034\obj\Debug\net6.0\ref\Task034.dll
+C:\Users\User\Desktop\GB\С#\Homework\Task034\obj\Debug\net6.0\Task034.pdb
+C:\Users\User\Desktop\GB\С#\Homework\Task034\obj\Debug\net6.0\Task034.genruntimeconfig.cache
